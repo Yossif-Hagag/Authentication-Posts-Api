@@ -6,7 +6,7 @@
 - [Composer](https://getcomposer.org/)
 
 ## Online API Docs
-[Postman API Docs](https://documenter.getpostman.com/view/40299295/2sB2cX8MBA)
+[Postman API Docs](https://documenter.getpostman.com/view/17493797/2sB2cX8gRm)
 
 ## Installation
 
