@@ -1,4 +1,4 @@
-# Authentication-Posts-Api
+# Authentication Sanctum and Posts CRUD Api
 
 ## Prerequisites
 > This Project Required Composer To Be Installed And PHP 8.2 Or Above
